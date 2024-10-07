@@ -1,3 +1,4 @@
+# FASTCAR - Principle
 This program is designed as a complementary tool to CREST, enabling a fully automated exploration of the conformational degrees of freedom within reaction profiles at DFT level (with Gaussian) and with a reasonable computational effort.
 Starting from a Gaussian output file (opt+freq) and a user-defined parameters list, FASTCAR proceeds accordingly:
 - run a CREST calculation, producing a conformer ensemble within a 6 kcal/mol energy window (DFTB);
