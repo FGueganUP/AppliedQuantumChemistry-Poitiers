@@ -1,3 +1,0 @@
-#Edit this file according to your cluster
-g16_path=/opt/ohpc/pub/software/g16
-g16C_path=/opt/ohpc/pub/software/g16C/g16
